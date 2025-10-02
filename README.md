@@ -37,7 +37,7 @@ Accuracy: ~99.95%
 
 Precision, Recall, F1-score: 1.00 for both classes
 
-**Random Forest Classifier
+****Random Forest Classifier**
 **
 Accuracy: **~99.98%**
 
